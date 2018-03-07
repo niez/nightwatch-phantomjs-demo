@@ -21,7 +21,7 @@
         "browserName" : "phantomjs",
         "javascriptEnabled" : true,
         "acceptSslCerts" : true,
-        "phantomjs.binary.path" : "C:/WebDriver"
+        "phantomjs.binary.path" : "/root/phantomjs-2.1.1-linux-x86_64/bin"
       }
     }
   }
